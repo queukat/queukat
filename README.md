@@ -2,6 +2,8 @@
 
 # Hi, I’m queukat 👋
 
+<img src="https://komarev.com/ghpvc/?username=queukat&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+
 <img src="./metrics.svg" alt="GitHub Metrics" />
 
 </div>
